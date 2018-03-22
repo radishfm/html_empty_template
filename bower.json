@@ -1,0 +1,22 @@
+{
+  "name": "html_template",
+  "description": "",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "https://github.com/radishfm/1lastochki",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "fancybox": "^3.2.5",
+    "swiper": "^4.1.6"
+  },
+  "authors": [
+    "radishfm"
+  ]
+}
